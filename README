@@ -1,3 +1,3 @@
 # hoops in rust
 
-Puzzles from leetcode, euler, hackerrank, exercism, etc.
+Puzzles from leetcode, project euler, hackerrank, exercism, etc. Some serve only to demonstrate basic competency in Rust. Some are documanted solutions to the data-structure-and-algorithm class of interview question. The rest are harder problems that, to be honest, I was too grumpy to document or optimize.
